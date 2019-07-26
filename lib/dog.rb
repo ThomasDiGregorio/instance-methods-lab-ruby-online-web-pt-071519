@@ -12,6 +12,4 @@ class Dog
 end
 
 
-lassie = Dog.new 
-lassie.bark
-lassie.sit 
+
