@@ -8,3 +8,6 @@ class Person
   def walking
     puts "The Person is walking"
   end
+  
+  
+  
