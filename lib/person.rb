@@ -13,9 +13,8 @@ class Person
  
  
  talk = Person.new 
- talk.Person
  
  walk = Person.new 
- walk.Person
+ 
  
   
